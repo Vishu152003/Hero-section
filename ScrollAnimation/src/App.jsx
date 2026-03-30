@@ -108,7 +108,7 @@ const App = () => {
           ref={carRef}
           src="https://freepngimg.com/thumb/car/2-2-car-transparent-thumb.png"
           alt="McLaren top view"
-          className="w-[60vw] max-w-[720px] object-contain"
+          className="w-[60vw] max-w-180 object-contain"
         />
       </div>
 
