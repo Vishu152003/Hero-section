@@ -26,7 +26,7 @@ This project is a modern, animated hero section built using React, Tailwind CSS,
 
 ## 🚀 Live Demo
 
-[Add your deployed link here]
+https://hero-section-black-mu.vercel.app/
 
 ## 📌 Installation
 
